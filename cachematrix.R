@@ -1,5 +1,5 @@
 ## Catching the inverse of a matrix: To do that I am going to write the two following functions: 
-## makeCacheMatrix and cache Solve
+## makeCacheMatrix and cacheSolve
 
 ## makeCacheMatrix: This function creates a special "matrix" object that can cache its inverse.
 
